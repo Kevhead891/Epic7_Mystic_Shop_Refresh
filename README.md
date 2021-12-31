@@ -10,6 +10,7 @@ Original : https://github.com/EmaOlay/E7-Auto-Shop-Refresh <br>
 
 - You will need python 3.6+
 - You will need to install the modules listed in requirements.txt
+- You will need to have the images in the imgs folder in the same directory as the Python script.
 
 ## Specs For Execution
 
