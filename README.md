@@ -52,7 +52,7 @@ python .\diretory_path_to_python_file
 pyautogui.click(x= round(1.9 * Coven_point[0]), y= round(Coven_point[1] + 30), clicks=2, interval=0.05, button='left')
 ```
 
-![Logo](.\readme_pic1.PNG)
+![Logo](readme_pic1.PNG)
 
 ### TLDR
 
